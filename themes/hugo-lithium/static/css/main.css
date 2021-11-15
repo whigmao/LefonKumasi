@@ -323,3 +323,16 @@ img {
     box-shadow: none;
   }
 }
+
+table {
+  table-layout: auto;
+  width: 100%;
+  border: 1px solid red;
+}
+
+td {
+  border: 1px solid black;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
