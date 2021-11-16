@@ -1,0 +1,36 @@
+---
+title: Inventory in Kumasi
+author: Guanghua Mao
+date: '2021-11-16'
+slug: '1'
+categories:
+  - Kumasi
+tags:
+  - Inventory
+  - Kumasi
+---
+
+| ITEMS | QUANTITY | 
+| ----- | :--------: | 
+| MARBLE 28cm| 230 | 
+| MARBLE 24cm| 99 |
+| IMPERIAL 28 B  | 38 |
+| IMPERIAL 32 B  | 38 |
+| IMPERIAL 24 C  | 8 |
+| IMPERIAL 28 C  | 8 |
+| GD 24 | 40 |
+| GD 18 | 40 |
+| GRT 28 | 40 |
+| GRT 24 | 40 |
+| TLS 28 | 20 |
+| TLS 24 | 20 |
+| TLS 18 | 10 |
+| WH 18 | 21 |
+| WH 28 | 30 |
+| WH 24 | 30 |
+| LEFON | 33 |
+| DESSINI RED | 32 |
+| DESSINI LIGHT | 32 |
+| DESSINI PINK | 12 |
+| DESSINI FRAY | 32 |
+| DESSINI GOLD | 32 |
